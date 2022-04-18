@@ -206,6 +206,7 @@ header .navbar ul li a:hover {
   background-size: cover;
   color: var(--color-white);
   text-align: center;
+  margin: 0 auto;
 }
 
 .splash::after {
